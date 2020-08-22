@@ -1,3 +1,3 @@
 # Javascript-Fundamentos
-Arquivos aplicando diversos fundamentos fundamentos do javascript
+Arquivos aplicando diversos fundamentos do javascript
 
